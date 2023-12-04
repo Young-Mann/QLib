@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\young\【WOW】CODES\tinyQLib\CMakeFiles\e7e9d23825e6f09e5487bb54b4e0e1cd\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{35A6B379-4A57-333C-BE4B-F93D189EFD0E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

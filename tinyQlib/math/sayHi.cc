@@ -1,4 +1,4 @@
-#include "sayHi.h"
+
 #include <iostream>
 
 int sayHi()
