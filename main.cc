@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "tinyQlib/math/sayHi.h"
+#include "mylib/math/sayHi.h"
 
 int main()
 {

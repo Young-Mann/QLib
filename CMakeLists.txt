@@ -7,7 +7,7 @@ message(STATUS "root This is SOURCE dir " ${PROJECT_SOURCE_DIR})
 # Find all sources files in the current directory, and store them in DIR_SRCS
 aux_source_directory(. DIR_SRCS)
 
-add_subdirectory(./tinyQLib/)
+add_subdirectory(./mylib/)
 
 # link_directories(./tinyQLib/)
 
